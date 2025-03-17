@@ -34,8 +34,7 @@ Tech: Python, AI, Data Science
 
 ---
 📬 Connect With Me  
-📧 Email: [mulokoziwillium@gmail.com]  
-💼 LinkedIn: [Your LinkedIn Profile](#)  
-🌐 Portfolio: [Your Website (if any)](#)  
+📧 Email: mulokoziwillium@gmail.com 
+🌐 GitHub:   https://github.com/Mulokozi-silencer
 
 Let's build something great together! 🚀  
