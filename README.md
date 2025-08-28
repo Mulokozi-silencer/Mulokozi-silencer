@@ -2,7 +2,7 @@
 
 🚀 Passionate Computer Science Student | Aspiring Software Developer | Cybersecurity & Data Science Enthusiast  
 
-📍 From Tanzania | 🎓 Studying at Mbeya University of Science and Technology (MUST) 
+📍 From Tanzania | 🎓 Studied at Mbeya University of Science and Technology (MUST) 
 
 ---
 🛠️ Skills & Technologies  
