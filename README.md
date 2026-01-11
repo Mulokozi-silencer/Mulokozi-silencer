@@ -1,12 +1,12 @@
-👋 Hi, I'm Mulokozi! 
+👋 Hello, Mulokozi is my name! 
 
-🚀 Passionate Computer Science Student | Aspiring Software Developer | Cybersecurity & Data Science Enthusiast  
+🚀 Passionate Computer Science Graduate | Aspiring Software Developer | Cybersecurity & Data Science Enthusiast  
 
 📍 From Tanzania | 🎓 Studied at Mbeya University of Science and Technology (MUST) 
 
 ---
 🛠️ Skills & Technologies  
-💻 Programming: Java | PHP | Kotlin | HTML | CSS | JavaScript | Python  
+💻 Programming: Laravel | PHP | Java | Kotlin | HTML | CSS | JavaScript  
 🛠️ Development: Web Development | Android Development | Machine Learning  
 🗄️ Databases:   MySQL | SQL  
 🔧 Tools:       Git | Android Studio | VS Code  
@@ -34,7 +34,7 @@ Tech: Python, AI, Data Science
 
 ---
 📬 Connect With Me  
-📧 Email: mulokoziwillium@gmail.com 
+📧 Email: [mulokoziwillium@gmail.com ](mulokoziwillium@gmail.com)
 🌐 GitHub:   https://github.com/Mulokozi-silencer
 
 Let's build something great together! 🚀  
